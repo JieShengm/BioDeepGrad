@@ -1,8 +1,19 @@
 
 [Introduction]
 
-# Installation and Usage
+# Table of Contents
 
-# Supported Methods
+* [Installation](#-Installation)
+* [Usage](#-Usage)
+* [Methods](#-Methods)
+* [Citation](#-Citation)
+
+# Installation
+
+# Usage
+
+# Methods
+
+## Examples
 
 # Citations
