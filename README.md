@@ -6,6 +6,7 @@
 * [Installation](#-Installation)
 * [Usage](#-Usage)
 * [Methods](#-Methods)
+** Examples
 * [Citation](#-Citation)
 
 # Installation
